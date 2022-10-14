@@ -1,0 +1,39 @@
+{
+  "name": "modal-xstate-ts",
+  "version": "1.0.0",
+  "description": "A simple example of a modal made with XState.",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@emotion/core": "10.0.28",
+    "@emotion/styled": "10.0.27",
+    "@testing-library/jest-dom": "5.8.0",
+    "@testing-library/react": "10.0.4",
+    "@testing-library/react-hooks": "3.2.1",
+    "@xstate/react": "0.8.1",
+    "emotion": "10.0.27",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "3.3.0",
+    "react-test-renderer": "16.13.1",
+    "sanitize.css": "11.0.1",
+    "xstate": "4.10.0"
+  },
+  "devDependencies": {
+    "@types/react": "16.9.19",
+    "@types/react-dom": "16.9.5",
+    "typescript": "3.7.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
